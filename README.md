@@ -1,2 +1,2 @@
 # lib-sys
-library system
+manage library
